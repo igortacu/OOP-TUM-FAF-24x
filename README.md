@@ -1,2 +1,33 @@
-# OOP-TUM-FAF-24x
-In this repository you will find what we, software engineering students @ Techincal University of Moldova are doing at the OOP classes. The programming language mainly used is going to be Java.
+# OOP in Java @ TUM FAF — My Journey, Code, Notes
+
+I study Software Engineering at **TUM, FAF**. This repo shows my path with **Object-Oriented Programming in Java**. You get real code, short notes, and lessons learned. Suits any level.
+
+> Goal: help you learn OOP in Java with runnable examples and clear steps.
+
+---
+
+## What you find here
+
+- `notes/` — short theory, checklists, interview points
+- `labs/` — lab tasks, solutions, test outputs
+- `examples/` — focused demos for each concept
+- `projects/` — mini projects with README and tasks
+- `patterns/` — GoF patterns in Java, tiny and runnable
+- `tests/` — JUnit 5 tests for examples
+- `tools/` — format, lint, CI helpers
+
+Each folder has its own `README.md` with run steps.
+
+---
+
+## Requirements
+
+- **JDK 21** (or 17 if needed)
+- **Gradle 8+** (wrapper included)
+- Any IDE: IntelliJ IDEA, VS Code, or Eclipse
+
+Check versions:
+
+```bash
+java -version
+./gradlew --version
