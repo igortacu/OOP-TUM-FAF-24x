@@ -2,7 +2,6 @@
 
 I study Software Engineering at **TUM**,. This repo shows my path with **Object-Oriented Programming in Java**. You get real code, short notes, and lessons learned. Suits any level.
 
-> Goal: help you learn OOP in Java with runnable examples and clear steps.
 
 ---
 
