@@ -1,0 +1,1 @@
+add new classes such as nutritional info, maybe a kitchen controller, kitchen tools such as oven, stove, toaster.
